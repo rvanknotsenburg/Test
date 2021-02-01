@@ -5,7 +5,7 @@ $name = 'Remco van Knotsenburg';
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Remco's test site</title>
+    <title>Remco zijn test site</title>
 </head>
 <body>
 
