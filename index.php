@@ -1,5 +1,5 @@
 <?php
-$name = 'Remco vna Knotsenburg';
+$name = 'Remco van Knotsenburg';
 ?>
 
 <!DOCTYPE html>
